@@ -20,9 +20,9 @@ I am a dynamic third-year Software Engineering student at McGill University with
 Have a look at my [personal website](https://mohdels.github.io/)!
 
 ## 👨‍💻 Skills
-**Programming Langauges**: Java, Python, C, JavaScript, HTML, and Bash
+**Programming Langauges**: Java, Python, C, JavaScript, HTML, Bash, ARM Assembly
 
-**Tools**: Git/Github, Unix/Linux, UML, Spring, PostgreSQL
+**Tools**: Git/Github, Unix/Linux, UML, Spring, PostgreSQL, OutSystems
 
 ## 📚 Projects
 [♟️ Chess](https://github.com/mohdels/Chess-Game)
