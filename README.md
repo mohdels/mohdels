@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 My diverse skill set includes proficiency in Java, Python, C, Javascript, HTML, and Bash, along with experience in Git/Github, Unix/Linux, UML, and PostgreSQL
 -->
-I'm a third-year Software Engineering student at McGill University with expertise in programming languages and tech tools. I thrive in collaborative environments, honing soft skills through various roles. My passion for innovation and curiosity drive me to explore technology's limitless possibilities. Driven by curiosity, I am always eager to make a profound impact and add value to any professional environment.
+I'm a third-year Software Engineering student at McGill University with expertise in programming languages and tech tools. I have 3 years of experience including 3 internships. I thrive in collaborative environments, honing soft skills through various roles. My passion for innovation and curiosity drive me to explore technology's limitless possibilities. Driven by curiosity, I am always eager to make a profound impact and add value to any professional environment.
 
 Have a look at my [personal website](https://mohdels.github.io/)!
 
 ## 👨‍💻 Skills
-**Programming Langauges**: Java, Python, C, JavaScript, HTML, Bash, ARM Assembly
+**Programming Langauges**: Java, Python, C, JavaScript, TypeScript, HTML, Bash, ARM Assembly
 
-**Tools**: Git/Github, Unix/Linux, UML, Spring, PostgreSQL, OutSystems
+**Tools/Frameworks**: React.js, JUnit, Git/Github, Unix/Linux, UML, Spring, PostgreSQL, OutSystems
 
 ## 📚 Projects
 [♟️ Chess](https://github.com/mohdels/Chess-Game)
@@ -38,4 +38,4 @@ Have a look at my [personal website](https://mohdels.github.io/)!
 [💼 Personal Website](https://github.com/mohdels/mohdels.github.io)
 
 ## 🤝 Let's connect
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mohdels/)!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mohdels/) or send me an [email](mailto:elsayedmo@hotmail.com) !
