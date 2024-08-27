@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 My diverse skill set includes proficiency in Java, Python, C, Javascript, HTML, and Bash, along with experience in Git/Github, Unix/Linux, UML, and PostgreSQL
 -->
-I'm a third-year Software Engineering student at McGill University with expertise in programming languages and tech tools. I have 3 years of experience including 3 internships. I thrive in collaborative environments, honing soft skills through various roles. My passion for innovation and curiosity drive me to explore technology's limitless possibilities. Driven by curiosity, I am always eager to make a profound impact and add value to any professional environment.
+I'm a fourth-year Software Engineering student at McGill University with expertise in programming languages and tech tools. I have 2 years of experience including 4 internships. I thrive in collaborative environments, honing soft skills through various roles. My passion for innovation and curiosity drive me to explore technology's limitless possibilities. Driven by curiosity, I am always eager to make a profound impact and add value to any professional environment.
 
 Have a look at my [personal website](https://mohdels.github.io/)!
 
