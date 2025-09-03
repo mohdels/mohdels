@@ -15,16 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 My diverse skill set includes proficiency in Java, Python, C, Javascript, HTML, and Bash, along with experience in Git/Github, Unix/Linux, UML, and PostgreSQL
 -->
-I'm a fourth-year Software Engineering student at McGill University with expertise in programming languages and tech tools. I have 2 years of experience including 4 internships. I thrive in collaborative environments, honing soft skills through various roles. My passion for innovation and curiosity drive me to explore technology's limitless possibilities. Driven by curiosity, I am always eager to make a profound impact and add value to any professional environment.
+Recent Software Engineering graduate with a track record of delivering reliable, high-performance applications. Skilled in full-stack development, test automation, and cloud infrastructure.
 
 Have a look at my [personal website](https://mohdels.github.io/)!
 
 ## 👨‍💻 Skills
-**Programming Langauges**: Java, Python, C, JavaScript, TypeScript, HTML, Bash, ARM Assembly
+**Languages**: Python, Java, JavaScript, TypeScript, HTML, CSS, C, Bash, ARM Assembly
 
-**Tools/Frameworks**: React.js, JUnit, Git/Github, Unix/Linux, UML, Spring, PostgreSQL, OutSystems
+**Tools/Frameworks**: Flask, Django, Spring, Spring Boot, Flask, React.js, Vue.js, JUnit, Pytest, Selenium, Cucumber
 
 ## 📚 Projects
+[🔔 MyDailyReminder](https://github.com/mohdels/MyDailyReminder) (Visit [Webpage](https://mydailyreminder.ca/))
+
+[🎓 Capstone Project](https://github.com/mohdels/Capstone-add-in)
+
 [♟️ Chess](https://github.com/mohdels/Chess-Game)
 
 [🏓 Pong Game](https://github.com/mohdels/Ping-Pong-game)
@@ -35,7 +39,7 @@ Have a look at my [personal website](https://mohdels.github.io/)!
 
 [🤿 DiveSafe](https://github.com/mohdels/DiveSafe)
 
-[💼 Personal Website](https://github.com/mohdels/mohdels.github.io)
+[💼 Personal Website](https://github.com/mohdels/mohdels.github.io) (Visit [Webpage](https://mohdels.github.io/))
 
 ## 🤝 Let's connect
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mohdels/) or send me an [email](mailto:elsayedmo@hotmail.com) !
