@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 My diverse skill set includes proficiency in Java, Python, C, Javascript, HTML, and Bash, along with experience in Git/Github, Unix/Linux, UML, and PostgreSQL
 -->
-Recent Software Engineering graduate with a track record of delivering reliable, high-performance applications. Skilled in full-stack development, test automation, and cloud infrastructure.
+Software Engineer with a track record of delivering reliable, high-performance applications. Skilled in full-stack development, test automation, and cloud infrastructure.
 
 Have a look at my [personal website](https://mohdels.github.io/)!
 
